@@ -15,5 +15,7 @@ setup(
         "keras",
         "tensorflow",
         "jupyter",
+        "gym",
+        "imageio"
     ],
 )

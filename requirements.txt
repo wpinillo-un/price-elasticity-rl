@@ -6,3 +6,5 @@ scikit-learn
 keras
 tensorflow
 jupyter
+gym
+imageio

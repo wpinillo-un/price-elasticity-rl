@@ -72,6 +72,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 notebooks/mask_data.ipynb
+notebooks/ElasticidadPrecios.ipynb
 
 # IPython
 profile_default/
