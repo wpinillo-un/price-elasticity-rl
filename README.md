@@ -1,6 +1,6 @@
-# Configuración en MacOS y Linux
+# Setup on macOS and Linux
 
-Ejecute los siguientes comandos en el terminal:
+Run the following commands in the terminal:
 
 ```bash
 python3 -m venv .venv
@@ -8,12 +8,20 @@ source .venv/bin/activate
 source setup.sh
 ```
 
-# Configuración en Windows
+# Setup on Windows
 
-Ejecute los siguientes comandos en el terminal:
+Run the following commands in the terminal:
 
 ```bash
 python3 -m venv .venv
 .venv\Scripts\activate
 setup
+```
+
+# Running Tests
+
+Run the following command in the terminal:
+
+```bash
+pytest
 ```
